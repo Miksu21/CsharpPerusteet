@@ -5,3 +5,10 @@ C:\Users\mika.ahonen5\source\repos\Opetuspäivä 5\Opetuspäivä 5\obj\Debug\Ope
 C:\Users\mika.ahonen5\source\repos\Opetuspäivä 5\Opetuspäivä 5\obj\Debug\Opetuspäivä 5.csproj.CoreCompileInputs.cache
 C:\Users\mika.ahonen5\source\repos\Opetuspäivä 5\Opetuspäivä 5\obj\Debug\Opetuspäivä 5.exe
 C:\Users\mika.ahonen5\source\repos\Opetuspäivä 5\Opetuspäivä 5\obj\Debug\Opetuspäivä 5.pdb
+C:\Users\mika.ahonen5\Documents\GitHub\CsharpPerusteet\Opetuspäivä 5\Opetuspäivä 5\bin\Debug\Opetuspäivä 5.exe.config
+C:\Users\mika.ahonen5\Documents\GitHub\CsharpPerusteet\Opetuspäivä 5\Opetuspäivä 5\bin\Debug\Opetuspäivä 5.exe
+C:\Users\mika.ahonen5\Documents\GitHub\CsharpPerusteet\Opetuspäivä 5\Opetuspäivä 5\bin\Debug\Opetuspäivä 5.pdb
+C:\Users\mika.ahonen5\Documents\GitHub\CsharpPerusteet\Opetuspäivä 5\Opetuspäivä 5\obj\Debug\Opetuspäivä 5.csprojAssemblyReference.cache
+C:\Users\mika.ahonen5\Documents\GitHub\CsharpPerusteet\Opetuspäivä 5\Opetuspäivä 5\obj\Debug\Opetuspäivä 5.csproj.CoreCompileInputs.cache
+C:\Users\mika.ahonen5\Documents\GitHub\CsharpPerusteet\Opetuspäivä 5\Opetuspäivä 5\obj\Debug\Opetuspäivä 5.exe
+C:\Users\mika.ahonen5\Documents\GitHub\CsharpPerusteet\Opetuspäivä 5\Opetuspäivä 5\obj\Debug\Opetuspäivä 5.pdb

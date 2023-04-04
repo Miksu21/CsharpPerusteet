@@ -1,0 +1,7 @@
+C:\Users\mika.ahonen5\source\repos\27Käyttäjän syöttämän merkin tulostaminen\27Käyttäjän syöttämän merkin tulostaminen\bin\Debug\27Käyttäjän syöttämän merkin tulostaminen.exe.config
+C:\Users\mika.ahonen5\source\repos\27Käyttäjän syöttämän merkin tulostaminen\27Käyttäjän syöttämän merkin tulostaminen\bin\Debug\27Käyttäjän syöttämän merkin tulostaminen.exe
+C:\Users\mika.ahonen5\source\repos\27Käyttäjän syöttämän merkin tulostaminen\27Käyttäjän syöttämän merkin tulostaminen\bin\Debug\27Käyttäjän syöttämän merkin tulostaminen.pdb
+C:\Users\mika.ahonen5\source\repos\27Käyttäjän syöttämän merkin tulostaminen\27Käyttäjän syöttämän merkin tulostaminen\obj\Debug\27Käyttäjän syöttämän merkin tulostaminen.csprojAssemblyReference.cache
+C:\Users\mika.ahonen5\source\repos\27Käyttäjän syöttämän merkin tulostaminen\27Käyttäjän syöttämän merkin tulostaminen\obj\Debug\27Käyttäjän syöttämän merkin tulostaminen.csproj.CoreCompileInputs.cache
+C:\Users\mika.ahonen5\source\repos\27Käyttäjän syöttämän merkin tulostaminen\27Käyttäjän syöttämän merkin tulostaminen\obj\Debug\27Käyttäjän syöttämän merkin tulostaminen.exe
+C:\Users\mika.ahonen5\source\repos\27Käyttäjän syöttämän merkin tulostaminen\27Käyttäjän syöttämän merkin tulostaminen\obj\Debug\27Käyttäjän syöttämän merkin tulostaminen.pdb

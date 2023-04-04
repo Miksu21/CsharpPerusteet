@@ -1,0 +1,7 @@
+C:\Users\mika.ahonen5\source\repos\30c Kertymä\30c Kertymä\bin\Debug\30c Kertymä.exe.config
+C:\Users\mika.ahonen5\source\repos\30c Kertymä\30c Kertymä\bin\Debug\30c Kertymä.exe
+C:\Users\mika.ahonen5\source\repos\30c Kertymä\30c Kertymä\bin\Debug\30c Kertymä.pdb
+C:\Users\mika.ahonen5\source\repos\30c Kertymä\30c Kertymä\obj\Debug\30c Kertymä.csprojAssemblyReference.cache
+C:\Users\mika.ahonen5\source\repos\30c Kertymä\30c Kertymä\obj\Debug\30c Kertymä.csproj.CoreCompileInputs.cache
+C:\Users\mika.ahonen5\source\repos\30c Kertymä\30c Kertymä\obj\Debug\30c Kertymä.exe
+C:\Users\mika.ahonen5\source\repos\30c Kertymä\30c Kertymä\obj\Debug\30c Kertymä.pdb

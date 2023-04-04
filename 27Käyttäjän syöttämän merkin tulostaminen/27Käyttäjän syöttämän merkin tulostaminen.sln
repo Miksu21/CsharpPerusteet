@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27Käyttäjän syöttämän merkin tulostaminen", "27Käyttäjän syöttämän merkin tulostaminen\27Käyttäjän syöttämän merkin tulostaminen.csproj", "{02C13CA7-2886-42FB-8B16-546B866C4AAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02C13CA7-2886-42FB-8B16-546B866C4AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C13CA7-2886-42FB-8B16-546B866C4AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C13CA7-2886-42FB-8B16-546B866C4AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C13CA7-2886-42FB-8B16-546B866C4AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0542DBE2-41AB-4867-BE79-98BAB6566023}
+	EndGlobalSection
+EndGlobal
