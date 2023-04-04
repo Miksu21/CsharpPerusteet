@@ -1,0 +1,2 @@
+C:\Users\mika.ahonen5\source\repos\31BLukujen summa ja keskiarvo (Yhdessä päivä 5)\31BLukujen summa ja keskiarvo (Yhdessä päivä 5)\obj\Debug\31BLukujen summa ja keskiarvo (Yhdessä päivä 5).csprojAssemblyReference.cache
+C:\Users\mika.ahonen5\source\repos\31BLukujen summa ja keskiarvo (Yhdessä päivä 5)\31BLukujen summa ja keskiarvo (Yhdessä päivä 5)\obj\Debug\31BLukujen summa ja keskiarvo (Yhdessä päivä 5).csproj.CoreCompileInputs.cache
